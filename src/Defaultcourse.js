@@ -24,7 +24,7 @@ class Defaultcourse extends Component {
     if(coursedisplayorder === false){
       this.setState({coursedisplay:true})
     }
-    const charactersData = this.defaultprops.conurses
+    const charactersData = this.defaultprops.courses
     const rows =charactersData.map((character)=>{
       return (
       <div onClick={()=>{this.setState({selectedcourse:character.id});this.setState({coursedisplay:false})}} className='courselist col flex-item-right'><img src={character.img} /><br />{character.name}
