@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/task-courses-react/static/css/main.998ad9e6.css",
+    "main.js": "/task-courses-react/static/js/main.9cbb58bc.js",
+    "static/js/787.ae5cffd1.chunk.js": "/task-courses-react/static/js/787.ae5cffd1.chunk.js",
+    "index.html": "/task-courses-react/index.html",
+    "main.998ad9e6.css.map": "/task-courses-react/static/css/main.998ad9e6.css.map",
+    "main.9cbb58bc.js.map": "/task-courses-react/static/js/main.9cbb58bc.js.map",
+    "787.ae5cffd1.chunk.js.map": "/task-courses-react/static/js/787.ae5cffd1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.998ad9e6.css",
+    "static/js/main.9cbb58bc.js"
+  ]
+}
