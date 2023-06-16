@@ -1,0 +1,102 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url("https://visme.co/blog/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-026.jpg");
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.fullcourselist{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.courselist{
+  border: 2px solid rgb(16, 175, 151);
+  width: 300px;
+  padding: 10px;
+  margin: 1rem;
+  box-shadow: 7px 10px 12px -5px;
+}
+
+.courselist img{
+  height: 100px;
+  width: 100px;
+}
+
+.style button{
+  background-color: white; 
+  color: black; 
+  border: 2px solid #ddb961;
+ 
+
+
+}
+.style button:hover{
+  background-color: #ddb961;
+  color: white;
+}
+
+.para{
+  font-size: 18px;
+  list-style-type: square;
+  width: 800px;
+  height: 400px;
+  padding: 33px;
+  box-shadow: 7px 10px 12px -5px;
+}
+
+.float-left{
+  float: left;
+  margin-left: 21px;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: -5px 13px;
+  border-radius: 50%;
+}
+.btn{
+  border-radius: 50%;
+}
+.vertical-center {
+  min-height: 50%;  /* Fallback for browsers do NOT support vh unit */
+  min-height: 50vh; /* These two lines are counted as one :-)       */
+  display: flex;
+  align-items: center;
+}
+.center {
+  margin: auto;
+  text-align: center;
+}
+
+.percent{
+  position: absolute;
+  right: 111px;
+  top: 12%;
+}
+.heading-style{
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.looks{
+  font-family: SuisseWorks,Georgia,Times,times new roman,serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+    font-weight: 700;
+    font-size: 3.2rem;
+    line-height: 1.25;
+    letter-spacing: -.05rem;
+}
+
+.image-style{
+  height: 100px;
+  width: 100px;
+}
